@@ -1,0 +1,13 @@
+﻿  源.cpp
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(10): warning C4244: “初始化”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(127): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(138): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(149): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(160): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(337): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(338): warning C4244: “=”: 从“DWORD”转换到“float”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(354): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(354): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(355): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\chils\desktop\notepad\project1\project1\源.cpp(381): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Chils\Desktop\notepad\Project1\Debug\Project1.exe
